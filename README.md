@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋🏿, I'm Danielle </h2>
+<h2 align="center"> Hi 👋🏿, I'm Danielle </h2>
 <h3 align="center">A data storyteller, community builder, and black futurist. Weapons of choice: code + kindness.</h3>
 
 - 🔭 I’m currently working on [datacardsplaybook](https://pair-code.github.io/datacardsplaybook/)
