@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏿, I'm Danielle</h1>
+<h1 align="center">Hi 👋🏿, I'm Danielle </h1>
 <h3 align="center">A data storyteller, community builder, and black futurist. Weapons of choice: code + kindness.</h3>
 
 - 🔭 I’m currently working on [datacardsplaybook](https://pair-code.github.io/datacardsplaybook/)
 
-- 👯 I’m loving the community at [MiR (Minorities in R)](www.mircommunity.com)
+- 🗺️ I’m loving the community over at [MiR (Minorities in R)](www.mircommunity.com)
 
 - 💬 Ask me about **data transparency, R, Python, technical investigations**
 
